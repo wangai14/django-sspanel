@@ -1694,12 +1694,12 @@ zstd = ["zstandard (>=0.18.0)"]
 
 [[package]]
 name = "uwsgi"
-version = "2.0.22"
+version = "2.0.23"
 description = "The uWSGI server"
 optional = false
 python-versions = "*"
 files = [
-    {file = "uwsgi-2.0.22.tar.gz", hash = "sha256:4cc4727258671ac5fa17ab422155e9aaef8a2008ebb86e4404b66deaae965db2"},
+    {file = "uwsgi-2.0.23.tar.gz", hash = "sha256:0cafda0c16f921db7fe42cfaf81b167cf884ee17350efbdd87d1ecece2d7de37"},
 ]
 
 [[package]]
@@ -1814,4 +1814,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "924c0d34a09b43e0ff8c656fe7dffa0f216de05333f3405bfed15763f15dca6c"
+content-hash = "93b5dad64d539fd7b9a037e6992a251605dc11d12b9986436392a68ab7ab292f"
